@@ -1,0 +1,5 @@
+com/example/simpleblog/service/ArticleService.class
+com/example/simpleblog/controller/ArticleController.class
+com/example/simpleblog/repository/ArticleRepository.class
+com/example/simpleblog/SimpleBlogApplication.class
+com/example/simpleblog/model/Article.class
